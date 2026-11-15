@@ -1,0 +1,10 @@
+# name=input("What is your name?")
+# age=int(input("age"))
+# print(type(name))
+# print(name)
+# print(age)
+# print(type(age))
+l=int(input("l"))
+b=int(input("b"))
+a=l*b
+print(a)

@@ -1,0 +1,6 @@
+Qproduct1=input("input Quantity of product1")
+pproduct1=input("input price of product 1")
+Qproduct2=input("input Quantity of product 2")
+pproduct2=input("inpur price of product 2")
+result=float(Qproduct1)*float(pproduct1)+float(Qproduct2)*float(pproduct2)
+print("amount to be paid="+str(result))
